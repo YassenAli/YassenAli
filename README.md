@@ -4,7 +4,7 @@
 - 👀 I’m interested in **web development, competitive programming, and Cyber Security**.
 - 🌱 I’m currently learning in **Faculty of Computers and Artficial Intelligence Cairo University**.
 - 💞️ I’m looking to collaborate on **projects that challenge me and help me grow as a developer**.
-- 📫 How to reach me: **[Your Email](mailto:yassinalilearning77076@gmail.com)** or **[LinkedIn](linkedin.com/in/yassin-ali-10497a252)**.
+- 📫 How to reach me: **[My gmail](mailto:yassinalilearning77076@gmail.com)** or **[LinkedIn](linkedin.com/in/yassin-ali-10497a252)**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I love joking around and making people laugh!**
 - 
