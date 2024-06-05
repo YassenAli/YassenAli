@@ -7,7 +7,7 @@
 - 📫 How to reach me: **[My gmail](mailto:yassinalilearning77076@gmail.com)** or **[LinkedIn](linkedin.com/in/yassin-ali-10497a252)**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I love joking around and making people laugh!**
-- 
+  
 ## Connect with me:
 - [GitHub](https://github.com/YassenAli)
 - [LinkedIn](linkedin.com/in/yassin-ali-10497a252)
