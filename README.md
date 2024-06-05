@@ -1,4 +1,4 @@
-![68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616565646d686d6f7564313030266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174](https://github.com/YassenAli/YassenAli/assets/144853147/de5fe31f-08fc-41fd-973c-3d9bf41deab7)# Hi there, I'm Yassin Ali 👋
+(https://github.com/YassenAli/YassenAli/assets/144853147/de5fe31f-08fc-41fd-973c-3d9bf41deab7)# Hi there, I'm Yassin Ali 👋
 
 ## About Me
 - 👀 I’m interested in **web development, competitive programming, and Cyber Security**.
@@ -8,6 +8,7 @@
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I love joking around and making people laugh!**
 
+![68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616565646d686d6f7564313030266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174]
 ![Uploading 6874747073<svg xmlns="http://www.w3.org/2000/svg" width="110.2" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
