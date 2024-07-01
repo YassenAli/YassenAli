@@ -30,7 +30,7 @@
 🌱 &emsp; I’m currently learning at **Faculty of Computers and Artificial Intelligence, Cairo University** <br/><br/>
 ❤️ &emsp; Love writing code and learning new features<br/><br/>
 📧 &emsp; Reach me anytime: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com)<br/><br/>
-💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamed-abdelmonem-716ba026b)<br/><br/>
+💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/yassin-ali-10497a252)<br/><br/>
 <!--🌐 &emsp; Check out my portfolio: [My Portfolio](#)-->
 
 </p>
@@ -123,21 +123,6 @@
 
 <!-- GitHub Stats and Activity -->
 <!-- GitHub Streak Stats -->
-<!--<div align="center">
-  <a href="https://github.com/YassenAli">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&border=199260&background=0D1117" alt="GitHub streak" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=dracula&count_private=true" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenAli&layout=compact&theme=dracula" height="200" alt="Top Languages" />
-</div>-->
-
-
-
-
-
 <p align="center">
     <a href="[https://github.com/YassenAli](https://github.com/YassenAli)">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&border=199260&background=0D1117" alt="Yassin's GitHub streak"/>
