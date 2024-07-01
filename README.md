@@ -158,7 +158,9 @@
 <hr/>
 
 <br/>
+
 <!-- Social and Contact -->
+
 ## Connect with Me
 
 <div align="center">
