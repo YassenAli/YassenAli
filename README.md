@@ -8,9 +8,17 @@
 </p>
 
 <!-- Visitors Count -->
-<!--<div align="center">
-  <img src="https://profile-counter.glitch.me/YassenAli/count.svg" />
-</div>-->
+<div align="center">
+  <br/><p align="centre"><b>Profile Views</b></p>  
+  <p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/YassenAli/count.svg" />
+  </p>
+  <br/>
+</div>
+
+
+
+<hr/>
 
 <!-- About Me Section -->
  # About Me
@@ -104,16 +112,18 @@
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
 </div>
 
-<!-- Top Contributed Repo -->
+### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=YassenAli&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
---
+<br/>
+<hr/>
+<br/>
 
 <!-- GitHub Stats and Activity -->
 <!-- GitHub Streak Stats -->
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/YassenAli">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&border=199260&background=0D1117" alt="GitHub streak" />
   </a>
@@ -122,7 +132,33 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=dracula&count_private=true" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenAli&layout=compact&theme=dracula" height="200" alt="Top Languages" />
-</div>
+</div>-->
+
+
+
+
+
+<p align="center">
+    <a href="[https://github.com/YassenAli](https://github.com/YassenAli)">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&border=199260&background=0D1117" alt="Yassin's GitHub streak"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/YassenAli">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassenAli&theme=radical" alt="Yassin's GitHub Contribution"/>
+    </a>
+  </p>
+  
+  <a> 
+      <a href="https://github.com/YassenAli"><img alt="Yassin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/YassenAli"><img alt="Yassin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YassenAli&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <br/>
+  </a>
+
+
+
+
 
 <!-- Social and Contact -->
 ## Connect with Me
@@ -149,11 +185,6 @@
   <a href="https://tryhackme.com/p/yassinalilearnin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
-</div>
-
-<!-- Visitor Count -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YassenAli/count.svg" alt="Visitor Count" />
 </div>
 
 <!-- Snake Animation -->
