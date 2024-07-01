@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1ACAD6&size=30&center=true&vCenter=true&lines=Hello%2C+I'm+Yassin+Ali;I'm+passionate+about+web+development%2C+competitive+programming%2C+and+cyber+security"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1ACAD6&size=30&center=true&vCenter=true&lines=Hello%2C+I'm+Yassin+Ali;Software+Engineer;Full+Stack+Developer;"></a>
 </p>
 
 <!-- About me -->
