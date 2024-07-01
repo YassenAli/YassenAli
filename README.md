@@ -144,7 +144,10 @@
 <br/>
 <br/>
 <!-- Snake Animation -->
+
 <img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
+
+###
 
 <br/>
 <br/>
