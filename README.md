@@ -161,7 +161,7 @@
 
 ## Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/yassin-ali-10497a252" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
   </a>
