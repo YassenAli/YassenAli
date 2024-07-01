@@ -141,9 +141,15 @@
     <br/>
   </a>
 
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
 
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&theme=react&bg_color=0D1117&color=199260&line=199260&point=199260&area_color=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
-
+<hr/>
 
 <!-- Social and Contact -->
 ## Connect with Me
@@ -171,15 +177,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
 </div>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&theme=react&bg_color=0D1117&color=199260&line=199260&point=199260&area_color=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 
 <!-- Skills and Tools -->
 <!--<h2 align="center">Skills and Tools</h2>
