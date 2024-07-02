@@ -127,7 +127,7 @@
     <a href="https://github.com/YassenAli">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&border=199260&background=0D1117" alt="Yassin's GitHub streak"/>
     </a>
-  </p>
+</p>
   
   <p align="center">
     <a href="https://github.com/YassenAli">
