@@ -11,7 +11,9 @@
 <div align="center">
   <br/><p align="centre"><b>Profile Views</b></p>  
   <p align="center">
+    <a href="https://profile-counter.glitch.me/YassenAli/count.svg">
   <img align="center" src="https://profile-counter.glitch.me/YassenAli/count.svg" />
+      </a>
   </p>
   <br/>
 </div>
