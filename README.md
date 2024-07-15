@@ -18,8 +18,6 @@
   <br/>
 </div>
 
-
-
 <hr/>
 
 <!-- About Me Section -->
