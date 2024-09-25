@@ -115,6 +115,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
+  <a href="https://github-contributor-stats.vercel.app/api?username=YassenAli&limit=5&theme=nord&combine_all_yearly_contributions=true"></a>
   <img src="https://github-contributor-stats.vercel.app/api?username=YassenAli&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
