@@ -26,7 +26,8 @@
 <p>
  <!--<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />-->
     
-👀 &emsp; I’m interested in Web Development, Competitive Programming, and Cyber Security <br/><br/>
+<!--👀 &emsp; I’m interested in Web Development, Competitive Programming, and Cyber Security <br/><br/>-->
+👀 &emsp; I’m interested in Data Engineering, Competitive Programming, and Web Development <br/><br/>
 🌱 &emsp; I’m currently learning at **Faculty of Computers and Artificial Intelligence, Cairo University** <br/><br/>
 ❤️ &emsp; Love writing code and learning new features<br/><br/>
 📧 &emsp; Reach me anytime: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com)<br/><br/>
