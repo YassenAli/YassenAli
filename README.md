@@ -26,7 +26,7 @@
 - 🔍 Interested in **Problem Solving** and **AI**
 - 📫 Reach me at: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com)
 - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)
-- 📄 Check my [CV](https://YassenAli/My-CV)
+- 📄 Check my [CV](https://github.com/YassenAli/My-CV)
 - 🏆 View my [Certificates](https://github.com/YassenAli/My-Certificates)
 
 <br/>
