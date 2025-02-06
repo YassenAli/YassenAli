@@ -104,7 +104,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
   <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
