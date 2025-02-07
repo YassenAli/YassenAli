@@ -103,15 +103,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub streak"/>
     </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<div align="center">
+<!--   <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak" />
+    </a> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true" alt="Yassin's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&custom_title=Yassin's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&custom_title=Yassin's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Yassin's Activity Graph" />
 </div>
 
 <a> 
