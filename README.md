@@ -18,7 +18,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-> Results-driven Computer Science student at Cairo University's Faculty of Computers and Artificial Intelligence, specializing in full-stack web development and object-oriented programming. Passionate about creating scalable solutions and leading technical projects.
+>  Third-year Computer Science student at Cairo University with hands-on experience in full-stack development and software engineering. Proficient in JavaScript, Python, and Java ecosystems including
+ React.js, Node.js, and Django frameworks. Demonstrated success in team leadership, application development lifecycle, and technical mentorship. Core competencies in system design, database architecture,
+ and performance optimization.
 
 - 🎓 Third-year Computer Science student at **Cairo University**
 - 💻 Full Stack Developer with expertise in **Node.js**, **React**, and **Django**
