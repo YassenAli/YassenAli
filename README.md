@@ -25,9 +25,8 @@
 - 🎓 Third-year Computer Science student at **Cairo University**
 - 💻 Full Stack Developer with expertise in **Node.js**, **React**, and **Django**
 - 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
-- 🔍 Interested in **Problem Solving** and **Computer Vision**
-- 📫 Reach me at: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com) <!-- - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)-->
-- 📄 Check my [CV](https://github.com/YassenAli/My-CV)
+- 🔍 Interested in **Web Technologies**, **Data Scientist** and **Computer Vision**
+- 📫 Reach me at: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com) <!-- - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)--><!-- - 📄 Check my [CV](https://github.com/YassenAli/My-CV)-->
 - 🏆 View my [Certificates](https://github.com/YassenAli/My-Certificates)
 
 <br/>
