@@ -17,11 +17,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
->  Third-year Computer Science student at Cairo University with hands-on experience in full-stack development and software engineering. Proficient in JavaScript, Python, and Java ecosystems including
- React.js, Node.js, and Django frameworks. Demonstrated success in team leadership, application development lifecycle, and technical mentorship. Core competencies in system design, database architecture,
- and performance optimization.
+>  Senior Computer Science student at Cairo University with hands-on experience in full-stack development and software engineering. Proficient in JavaScript, Python, and Java ecosystems including React.js, Node.js, Django and FastAPI frameworks. Demonstrated success in team leadership, application development lifecycle, and technical leadership. Core competencies in system design, database architecture, and performance optimization. Experienced in building scalable web systems and AI-powered applications.
 
-- 🎓 Third-year Computer Science student at **Cairo University**
+- 🎓 Senior Computer Science student at **Cairo University**
 - 💻 Full Stack Developer with expertise in **Node.js**, **React**, and **Django**
 - 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
 - 🔍 Interested in **Data Science** and **AI**
