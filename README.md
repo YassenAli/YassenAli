@@ -8,25 +8,161 @@
 
 </div>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Yassin+Ali!;Software+Engineer;Backend+Engineer;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Yassin+Ali!;A+Passionate+Software+Engineer;Backend+Engineer;from+Cairo,+Egypt+🇪🇬" />
 </h3>
 
 <br/>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YassenAli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yassinalilearning77076@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- <a href="https://www.hackerrank.com/profile/yassinalil">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a> -->
+  </p>
+  
 ## 🚀 About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
->  Senior Computer Science student at Cairo University with hands-on experience in full-stack development and software engineering. Proficient in JavaScript, Python, and Java ecosystems including React.js, Node.js, Django and FastAPI frameworks. Demonstrated success in team leadership, application development lifecycle, and technical leadership. Core competencies in system design, database architecture, and performance optimization. Experienced in building scalable web systems and AI-powered applications.
+<!-- >  -->
+I'm a senior Computer Science student at **Cairo University** with a strong passion for building robust and scalable software solutions. With hands-on experience in full-stack development, I excel in backend technologies like **Node.js**, **Django**, and **Spring Boot**, complemented by a solid foundation in frontend frameworks like **React**.
 
-- 🎓 Senior Computer Science student at **Cairo University**
-- 💻 Full Stack Developer with expertise in **Node.js**, **React**, and **Django**
-- 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
-- 🔍 Interested in **Data Science** and **AI**
-- 📫 Reach me at: [yassinalilearning77076@gmail.com](mailto:yassinalilearning77076@gmail.com) <!-- - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)--><!-- - 📄 Check my [CV](https://github.com/YassenAli/My-CV)--><!-- - 🏆 View my [Certificates](https://github.com/YassenAli/My-Certificates)-->
+- 🎓 Currently pursuing a B.S. in Computer Science at **Cairo University**.
+- 💻 My core expertise lies in **Backend Development**, **System Design**, and **Database Architecture**.
+- 🌱 I'm currently diving deep into **Data Engineering** principles and exploring advanced **Web Technologies**.
+- 🎯 My goal is to leverage technology to build impactful AI-powered applications and solve real-world problems. <!-- - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)--><!-- - 📄 Check my [CV](https://github.com/YassenAli/My-CV)--><!-- - 🏆 View my [Certificates](https://github.com/YassenAli/My-Certificates)-->
 
 <br/>
 
+---
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css,react,nodejs,express,django,spring,mysql,mongodb,docker,aws,git,postman,linux" />
+  </a>
+</p>
+
+---
+<!--
+## 📂 My Projects
+
+Here's a categorized list of my projects. Feel free to explore them!
+
+<details>
+<summary><b>🚀 Full-Stack & Backend-Focused</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Mentoria">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Mentoria&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Mentoria" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Event-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Event-System&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Event System" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Learning-Management-System-LMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Learning-Management-System-LMS&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="LMS" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/E-Commerce-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=E-Commerce-Platform&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="E-Commerce Platform" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>💻 Frontend-Focused</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Libri">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Libri&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Libri" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/React-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=React-Projects&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="React Projects" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🐍 Python & Data Science</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Scientific-Computing-with-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Scientific-Computing-with-Python&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Scientific Computing" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Data-Analysis-with-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Data-Analysis-with-Python&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Data Analysis" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>⚙️ System & Command-Line Tools</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Online-Judge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Online-Judge&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Online Judge" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/Command-Line-Interpreter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Command-Line-Interpreter&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Command-Line Interpreter" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>📚 Other Repositories & Learning</b></summary>
+<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/My-CV">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=My-CV&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="My CV" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YassenAli/YassenAli">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=YassenAli&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Profile README" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+-->
+<!--
 ## 🛠️ Technical Skills
 
 <details>
@@ -67,7 +203,7 @@
 
 </details>
 
-<br/>
+<br/>-->
 
 <!-- ## 🎯 Featured Projects
 
@@ -97,18 +233,36 @@
   </a>
 </p> -->
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats & Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yassin's GitHub Stats" />
+</div>
+<div align="center">
+  <img alt="Yassin's Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YassenAli&theme=radical" width="49.5%" />
+  <img alt="Yassin's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YassenAli&theme=radical" width="49.5%" />
+</div>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak"/>
+</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true" alt="Yassin's Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!--<p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub streak"/>
     </a>
 </p>
 
 <div align="center">
-<!--   <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak" />
-    </a> -->
+    </a> 
   <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true" alt="Yassin's GitHub Stats" />
 </div>
 
@@ -130,29 +284,11 @@
   <img alt="Yassin's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YassenAli&theme=radical" width="49.5%" />
 </a>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />-->
 
 <!-- 3D Contribution Graph -->
 <!-- ![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <!-- ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg) -->
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yassin-ali-10497a252">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yassinalilearning77076@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/YassenAli">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- <a href="https://www.hackerrank.com/profile/yassinalil">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a> -->
-</p>
 
 ---
 
