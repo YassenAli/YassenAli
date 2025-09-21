@@ -253,6 +253,65 @@ Here's a categorized list of my projects. Feel free to explore them!
   <img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
 </div>
 
+<!--
+
+<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
+
+- 📊 &nbsp;
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![SSIS](https://img.shields.io/badge/SSIS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
+  ![SSRS](https://img.shields.io/badge/SSRS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
+  ![SSAS](https://img.shields.io/badge/SSAS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=nosql)
+
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+- 🔧 &nbsp;
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
+
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me:</h3> 
+
+[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
+[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)
+[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/Moataz-Elmesmary)
+[<img src='https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-64.png' alt='discord' height='40'>](https://discord.com/users/moatazelmesmary)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+<a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moatazelmesmary-blue?style=flat-square&logo=instagram"></a>
+
+
+-->
+
+
 <!--<p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub streak"/>
