@@ -34,7 +34,6 @@ I'm a senior Computer Science student at **Cairo University** with a strong pass
 
 - 🎓 Currently pursuing a B.S. in Computer Science at **Cairo University**.
 - 💻 My core expertise lies in **Backend Development**, **System Design**, and **Database Architecture**.
-- 🌱 I'm currently diving deep into **Data Engineering** principles and exploring advanced **Web Technologies**.
 - 🎯 My goal is to leverage technology to build impactful AI-powered applications and solve real-world problems. <!-- - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)--><!-- - 📄 Check my [CV](https://github.com/YassenAli/My-CV)--><!-- - 🏆 View my [Certificates](https://github.com/YassenAli/My-Certificates)-->
 
 <br/>
