@@ -244,9 +244,9 @@ Here's a categorized list of my projects. Feel free to explore them!
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak"/>
 </p>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true" alt="Yassin's Activity Graph" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
