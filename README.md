@@ -232,9 +232,9 @@ Here's a categorized list of my projects. Feel free to explore them!
   </a>
 </p> -->
 
-## 📊 My GitHub Stats & Activity
+## 📊 My GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yassin's GitHub Stats" />
 </div>
 <div align="center">
@@ -243,7 +243,7 @@ Here's a categorized list of my projects. Feel free to explore them!
 </div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak"/>
-</p>
+</p> -->
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true" alt="Yassin's Activity Graph" />
 </div> -->
