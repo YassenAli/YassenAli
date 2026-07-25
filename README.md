@@ -1,371 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yassin%20Ali&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
-</div>
 
-<div align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=200&section=header&text=Yassin%20Ali&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I%27m+Yassin+Ali;Software+Engineer;Backend+and+AI+Systems+Integration;From+Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YassenAli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinalilearning77076@gmail.com)
+
 </div>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Yassin+Ali!;A+Passionate+Software+Engineer;Backend+Engineer;from+Cairo,+Egypt+🇪🇬" />
-</h3>
 
-<br/>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YassenAli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yassinalilearning77076@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- <a href="https://www.hackerrank.com/profile/yassinalil">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a> -->
-  </p>
-  
 ## 🚀 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Software Engineer specializing in scalable backend architecture and AI system integration. I have proven experience building robust, event-driven architectures using **Spring Boot**, **FastAPI**, and **Apache Kafka**. I'm passionate about writing clean, optimized code and deploying high-performance data pipelines and LLM-powered applications in cloud environments.
 
-<!-- >  -->
-I'm a senior Computer Science student at **Cairo University** with a strong passion for building robust and scalable software solutions. With hands-on experience in full-stack development, I excel in backend technologies like **Node.js**, **Django**, and **Spring Boot**, complemented by a solid foundation in frontend frameworks like **React**.
-
-- 🎓 Currently pursuing a B.S. in Computer Science at **Cairo University**.
-- 💻 My core expertise lies in **Backend Development**, **System Design**, and **Database Architecture**.
-- 🎯 My goal is to leverage technology to build impactful AI-powered applications and solve real-world problems. <!-- - 🌐 Visit my [Portfolio](https://yassin-ali.netlify.app)--><!-- - 📄 Check my [CV](https://github.com/YassenAli/My-CV)--><!-- - 🏆 View my [Certificates](https://github.com/YassenAli/My-Certificates)-->
-
-<br/>
+- 🎓 B.S. in Information Systems, **Cairo University**
+- 💻 Specializing in **Backend Architecture**, **Event-Driven Systems**, and **AI/LLM Integration**
+- 🎯 Focused on clean code, high-performance data pipelines, and cloud-native deployment
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css,react,nodejs,express,django,spring,mysql,mongodb,docker,aws,git,postman,linux" />
-  </a>
-</p>
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,cs" />
 
----
-<!--
-## 📂 My Projects
+**Backend & Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,react" />
 
-Here's a categorized list of my projects. Feel free to explore them!
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-<details>
-<summary><b>🚀 Full-Stack & Backend-Focused</b></summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Mentoria">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Mentoria&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Mentoria" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Event-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Event-System&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Event System" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Learning-Management-System-LMS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Learning-Management-System-LMS&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="LMS" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/E-Commerce-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=E-Commerce-Platform&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="E-Commerce Platform" />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>💻 Frontend-Focused</b></summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Libri">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Libri&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Libri" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/React-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=React-Projects&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="React Projects" />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>🐍 Python & Data Science</b></summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Scientific-Computing-with-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Scientific-Computing-with-Python&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Scientific Computing" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Data-Analysis-with-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Data-Analysis-with-Python&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Data Analysis" />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>⚙️ System & Command-Line Tools</b></summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Online-Judge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Online-Judge&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Online Judge" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/Command-Line-Interpreter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Command-Line-Interpreter&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Command-Line Interpreter" />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>📚 Other Repositories & Learning</b></summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/My-CV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=My-CV&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="My CV" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YassenAli/YassenAli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=YassenAli&theme=radical&bg_color=141321&hide_border=true&icon_color=F8D866" alt="Profile README" />
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
--->
-<!--
-## 🛠️ Technical Skills
-
-<details>
-<summary>Programming Languages</summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary>Frameworks & Libraries</summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</details>
-
-<details>
-<summary>Tools & Platforms</summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
-
-<br/>-->
-
-<!-- ## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YassenAli/Mentoria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Mentoria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Mentoria" />
-</a>
-
-<a href="https://github.com/YassenAli/Event-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Event-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Eventi" />
-</a>
-
-<a href="https://github.com/YassenAli/Libri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Libri&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Libri" />
-</a>
-
-<a href="https://github.com/YassenAli/Learning-Management-System-LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YassenAli&repo=Learning-Management-System-LMS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="LMS" />
-</a>
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/YassenAli?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p> -->
-
-## 📊 My GitHub Activity
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yassin's GitHub Stats" />
-</div>
-<div align="center">
-  <img alt="Yassin's Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YassenAli&theme=radical" width="49.5%" />
-  <img alt="Yassin's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YassenAli&theme=radical" width="49.5%" />
-</div>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak"/>
-</p> -->
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true" alt="Yassin's Activity Graph" />
-</div> -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!--
-
-<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
-
-- 📊 &nbsp;
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![SSIS](https://img.shields.io/badge/SSIS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
-  ![SSRS](https://img.shields.io/badge/SSRS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
-  ![SSAS](https://img.shields.io/badge/SSAS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=nosql)
-
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-- 🔧 &nbsp;
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
-  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-
-
-<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me:</h3> 
-
-[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
-[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/Moataz-Elmesmary)
-[<img src='https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-64.png' alt='discord' height='40'>](https://discord.com/users/moatazelmesmary)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-<a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
-<a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moatazelmesmary-blue?style=flat-square&logo=instagram"></a>
-
-
--->
-
-
-<!--<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub streak"/>
-    </a>
-</p>
-
-<div align="center">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak" />
-    </a> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&theme=radical&hide_border=true" alt="Yassin's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&custom_title=Yassin's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Yassin's Activity Graph" />
-</div>
-
-<a> 
-  <a href="https://denvercoder1-github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&count_private=true&theme=radical&hide_border=true">
-    <img alt="Yassin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&count_private=true&theme=radical" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/YassenAli">
-    <img alt="Yassin's Top Languages by Repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenAli&langs_count=8&layout=compact&theme=radical" height="192px" width="49.5%"/>
-  </a>
-</a>
-
-<a href="https://github.com/YassenAli">
-  <img alt="Yassin's Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YassenAli&theme=radical" width="49.5%" />
-  <img alt="Yassin's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YassenAli&theme=radical" width="49.5%" />
-</a>
-
-<img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />-->
-
-<!-- 3D Contribution Graph -->
-<!-- ![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<!-- ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg) -->
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,postman,linux" />
 
 ---
 
-<!-- Visitors Count -->
 <div align="center">
-<!--   <br/><p align="centre"><b>Profile Views</b></p>   -->
-<!--   <p align="center">
-    <a href="https://profile-counter.glitch.me/YassenAli/count.svg">
-  <img align="center" src="https://profile-counter.glitch.me/YassenAli/count.svg" />
-      </a>
-  </p> -->
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=YassenAli&label=Profile%20views&color=0e75b6&style=flat" alt="YassenAli" /> </p>
-  <br/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
 </div>
 
-<br/>
+## 🎓 Projects — Built During My Cairo University Journey
 
-⭐️ If you like this profile template and want to modify it for yourself, please leave a star!
+A comprehensive look at the projects I've built throughout my degree, organized by area.
+
+### 🔧 Backend Systems & APIs
+- **[Order-Management-System](https://github.com/YassenAli/Order-Management-System)** — Java JSP frontend communicating with five Python Flask microservices on the backend
+- **[Route-Scheduling-System](https://github.com/YassenAli/Route-Scheduling-System)** — REST API for a route scheduling system using Node.js, Express, and PostgreSQL
+- **[Learning-Management-System-LMS](https://github.com/YassenAli/Learning-Management-System-LMS)** — Backend system for managing courses, students, and learning content
+- **[Courses-Manager-by-Node-JS](https://github.com/YassenAli/Courses-Manager-by-Node-JS)** — Course management backend built with Node.js
+- **[Event-System](https://github.com/YassenAli/Event-System)** — Backend system for managing and organizing events
+- **[Libri](https://github.com/YassenAli/Libri)** — Book borrow system for tracking lending and returns *(collaborative project)*
+- **[Registra-Laravel](https://github.com/YassenAli/Registra-Laravel)** — User registration web app built with Laravel
+- **[WebCrawler](https://github.com/YassenAli/WebCrawler)** — Java-based web crawler for automated data collection
+
+### 🧩 Data Structures, Algorithms & Systems Programming
+- **[B-Tree-Index-Management-System](https://github.com/YassenAli/B-Tree-Index-Management-System)** — B-Tree index system in C++ to manage fixed-length records in a binary file
+- **[Inverted-Index-Engine-Java](https://github.com/YassenAli/Inverted-Index-Engine-Java)** — Builds an inverted index in Java for fast document search and retrieval
+- **[Document-Similarity](https://github.com/YassenAli/Document-Similarity)** — C++ implementation for measuring similarity between text documents
+- **[Healthcare-Management-System](https://github.com/YassenAli/Healthcare-Management-System)** — C++ system for managing doctors and their appointments
+- **[Online-Library-by-C-sharp](https://github.com/YassenAli/Online-Library-by-C-sharp)** — Library management system built in C#
+- **[Task-Manager-by-CPP](https://github.com/YassenAli/Task-Manager-by-CPP)** — Task tracking and management application in C++
+- **[CPU-Schedulers-Simulator](https://github.com/YassenAli/CPU-Schedulers-Simulator)** — Simulates classic CPU scheduling algorithms
+- **[Command-Line-Interpreter](https://github.com/YassenAli/Command-Line-Interpreter)** — A custom shell/command-line interpreter built from scratch
+- **[Gray-Scale-Image-Processor-by-CPP](https://github.com/YassenAli/Gray-Scale-Image-Processor-by-CPP)** — Intro to CS coursework project: loads an image and applies filters (Photoshop-style), then saves it
+
+### 🗄️ Databases & Data Engineering
+- **[DBT-BigQuery](https://github.com/YassenAli/DBT-BigQuery)** — Integrates dbt with BigQuery to transform a table of 1M+ records
+- **[Crime-Data-Warehouse](https://github.com/YassenAli/Crime-Data-Warehouse)** — Data warehouse design and implementation for crime data analysis
+- **[SSIS-Assignment](https://github.com/YassenAli/SSIS-Assignment)** — Solutions for four SSIS (ETL) coursework tasks
+- **[Big-Data-Assignment](https://github.com/YassenAli/Big-Data-Assignment)** — Big data processing coursework assignment
+
+### 🤖 AI, ML & Computer Vision
+- **[Material-Stream-Identification-System](https://github.com/YassenAli/Material-Stream-Identification-System)** — Three-phase ML pipeline (data augmentation, multi-modal feature extraction, SVM/KNN classification) for real-time material stream identification
+- **[Smart-Surveillance-System-with-Face-and-Object-Detection](https://github.com/YassenAli/Smart-Surveillance-System-with-Face-and-Object-Detection)** — Smart surveillance system using OpenCV and Python
+- **[Surveillance-for-Retail-Stores](https://github.com/YassenAli/Surveillance-for-Retail-Stores)** — Tracks store visitor counts, monitors staff behavior, and checks policy compliance
+- **[surveillance-system](https://github.com/YassenAli/surveillance-system)** — Interface for a computer-vision-based surveillance system
+- **[AprioriApp](https://github.com/YassenAli/AprioriApp)** — GUI application for Apriori association rule mining
+
+### ⚡ Parallel & High-Performance Computing
+- **[MPI-Parallel-Programs](https://github.com/YassenAli/MPI-Parallel-Programs)** — Two MPI-based parallel C programs for HPC coursework
+- **[OPENMP-Parallel-Programs](https://github.com/YassenAli/OPENMP-Parallel-Programs)** — Three C programs demonstrating parallel computing with OpenMP and MPI
+- **[MPI-Problems](https://github.com/YassenAli/MPI-Problems)** — Additional MPI-based parallel programming exercises
+
+### 🌐 Web & Frontend
+- **[Chapterfly](https://github.com/YassenAli/Chapterfly)** — A platform for people to trade and borrow books, spreading knowledge
+- **[Baby-Health-Life](https://github.com/YassenAli/Baby-Health-Life)** — Website providing healthcare information and solutions for infants
+- **[Mentoria](https://github.com/YassenAli/Mentoria)** — Full-stack TypeScript application *(collaborative project)*
+- **[Weather-Dashboard](https://github.com/YassenAli/Weather-Dashboard)** — Dashboard displaying real-time weather data
+- **[Calculator-by-React](https://github.com/YassenAli/Calculator-by-React)** — Calculator built with React supporting the four basic operations
+- **[Tic-Tac-Toe-by-React.js](https://github.com/YassenAli/Tic-Tac-Toe-by-React.js)** — Simple Tic-Tac-Toe game built with React
+- **[Google-Search](https://github.com/YassenAli/Google-Search)** — A frontend clone of the Google search interface
+- **[Porfolio1](https://github.com/YassenAli/Porfolio1)** / **[Portfolio2](https://github.com/YassenAli/Portfolio2)** — Personal portfolio site iterations
+
+### 🎮 Games & Small Utilities
+- **[XO-Game-by-CPP](https://github.com/YassenAli/XO-Game-by-CPP)** — Four variations of XO: 3×3, 5×5, Connect Four, and Pyramid boards
+- **[Age-Calculator](https://github.com/YassenAli/Age-Calculator)** — Calculates age in years, months, and days
+- **[Calculator](https://github.com/YassenAli/Calculator)** — Calculator with extended functions
+- **[Simple-Calculator](https://github.com/YassenAli/Simple-Calculator)** — Basic calculator app
+- **[Sudoku-Game](https://github.com/YassenAli/Sudoku-Game)**, **[Gomoku](https://github.com/YassenAli/Gomoku)**, **[Nim-Game](https://github.com/YassenAli/Nim-Game)**, **[Number-Scrabble-Game](https://github.com/YassenAli/Number-Scrabble-Game)**, **[Hangman-Game](https://github.com/YassenAli/Hangman-Game)**, **[Guess-My-Number-Game](https://github.com/YassenAli/Guess-My-Number-Game)**, **[Tic-Tac-Toe-by-python](https://github.com/YassenAli/Tic-Tac-Toe-by-python)**, **[Capitals-of-The-World-Game](https://github.com/YassenAli/Capitals-of-The-World-Game)** — Classic logic and puzzle games implemented for practice
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+[![Snake animation](https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg)](https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Thanks for stopping by — let's connect!
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Thanks+for+stopping+by!+%F0%9F%99%8C;Let%27s+build+something+great+together;See+you+next+time!+%F0%9F%91%8B" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YassenAli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinalilearning77076@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=YassenAli&label=PROFILE+VIEWS&color=4CA1AF&style=for-the-badge&abbreviated=true)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=150&section=footer&reversal=true&animation=fadeIn" width="100%"/>
+
 </div>
